@@ -16,7 +16,7 @@ API Endpoints :
 
 Get : 'http://localhost:5000/portfolio'
 
-Post: 'http://localhost:5000/portfolio/:id'
+Post: 'http://localhost:5000/portfolio'
 
 Put: 'http://localhost:5000/portfolio/:id'
 
